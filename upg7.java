@@ -2,7 +2,7 @@ public class upg7 {
     public static void main(String[] arg) {
         int number = 65;
         char letter = 'J';
-        double decimal = 77.0;
+        double decimal = 77.2;
 
         int number2;
         char letter2;
